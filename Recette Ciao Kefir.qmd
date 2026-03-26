@@ -1,0 +1,15 @@
+---
+title: "Veille Branche"
+format: html
+editor: Hugo
+---
+
+### Recette Ciao Kefir
+
+prendre 60 grammes de graine et les hydrater
+
+Verser les graines dans un bocal hermatique avec 1,5 litre d'eau
+
+Ajouter des figues, citrons
+
+et hop ciao Kefir
